@@ -29,7 +29,7 @@
     "url": "https://github.com/erkstruwe/tiny.pictures-js/issues"
   },
   "dependencies": {
-    "lazysizes": "^4.1.6",
+    "lazysizes": "^5.2.1",
     "lodash": "^4.17.11",
     "qs": "^6.7.0",
     "sync-is-private-host": "^0.1.2",
